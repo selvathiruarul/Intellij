@@ -1,2 +1,2 @@
 # Intellij
-JetBrains IntelliJ
+JetBrains IntelliJ is an IDE developed by Jetbrains
